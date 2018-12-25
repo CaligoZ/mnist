@@ -1,1 +1,2 @@
 FROM alpine:3.4
+EXPOSE 5000
